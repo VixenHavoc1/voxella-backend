@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+sentence-transformers
+pinecone-client  
+sqlalchemy
+pydantic
+passlib[bcrypt]  
+supabase
+python-jose[cryptography]
+aiosqlite 
+email-validator 
+resend 
+psycopg2-binary
+
