@@ -13,4 +13,4 @@ aiosqlite
 email-validator 
 resend 
 psycopg2-binary
-
+mangum
